@@ -10,10 +10,10 @@
     {
       "id": "Dev-H-1.12.2",
       "name": "Dev-H (Minecraft 1.12.2)",
-      "description": "Dev-H Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "description": "개발서버 입니다",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "211.104.220.173:10",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
